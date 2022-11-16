@@ -3,6 +3,7 @@
 <h2 align="center">
   Glad to see you here <img alt="hi" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36"/>
 </h2>
+<a href="https://github.com/welel/welel/blob/main/README.rus.md" ><img alt="ru" src="https://img.shields.io/badge/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%20%F0%9F%87%B7%F0%9F%87%BA-blue"/></a>
 
 
 <img align="right" alt="Mark" src="imgs/WATNEY.png" height="340" />
@@ -44,7 +45,6 @@ I'm looking for challenging career opportunities, mostly as a Python (Backend) D
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop]" />
 </details>
 
 <details>
@@ -56,6 +56,7 @@ I'm looking for challenging career opportunities, mostly as a Python (Backend) D
   <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
   <img src="https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black" alt="Miro" />
   <img src="https://img.shields.io/badge/colab-%23F46800.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop]" />
 </details>
 
 
