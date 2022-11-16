@@ -55,6 +55,7 @@ I'm looking for challenging career opportunities, mostly as a Python (Backend) D
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
   <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
   <img src="https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black" alt="Miro" />
+  <img src="https://img.shields.io/badge/colab-%23F46800.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab" />
 </details>
 
 
