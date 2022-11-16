@@ -70,6 +70,6 @@
 * 🏃 Очень люблю бегать.
 * 📚 Книги, которые повлияли на меня: "Трилогия желаний" (Т.Д.), "Sapiens: краткая история человечества" (Ю.Н.Х.), "Сила момента сейчас" (Э.Т.)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=welel" atl="commits_stat" width="350"/></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=welel&theme=flag-india&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D&background=DD272700&stroke=0211DD" atl="commits_stat" width="420"/></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=welel&color=orange"></p>
