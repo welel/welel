@@ -64,7 +64,7 @@ For a detailed overview of my coding skills and abilities, please visit my curre
 
 <a href="https://github.com/welel/noted" _target="blank"><img alt="noted_logo" src="imgs/noted_logo2.png" width="100" align="left" /></a>
 
-[NoteD.](https://github.com/welel/noted) is a platform designed for creating and sharing personal notes, allowing users to search for relevant topics, save and follow notes from other users. The platform also enables users to search for notes on specific sources of information such as books, articles, videos, lectures and other types of content. The project was developed with the primary goals of providing an opportunity for me to learn and improve my skills while creating it and as well as a showcase for recruiters to demonstrate my abilities.
+[NoteD](https://github.com/welel/noted) is a platform designed for creating and sharing personal notes, allowing users to search for relevant topics, save, download and follow notes from other users. The platform also enables users to search for notes on specific sources of information such as books, articles, videos, lectures and other types of content. The project was developed with the primary goals of providing an opportunity for me to learn and improve my skills while creating it, as well as a showcase for recruiters to demonstrate my coding abilities.
 
 ## 😎 Some Things About Me
 * 📱 Believe that spending less time on social networks can make us happier.
