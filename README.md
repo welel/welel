@@ -5,23 +5,23 @@
 </h2>
 <a href="https://github.com/welel/welel/blob/main/README.rus.md" ><img alt="ru" src="https://img.shields.io/badge/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%20%F0%9F%87%B7%F0%9F%87%BA-blue"/></a>
 
-
+<!-- 
 <img align="right" alt="Mark" src="imgs/WATNEY.png" height="340" />
+-->
 
-<h3 align="center">I am a backend developer and a curious person based in Russia 🇷🇺.</h3>
+<h3 align="center">I am a backend developer and a curious person based in Saint-Petersburg 🇷🇺.</h3>
 
-My name is **Pavel**. I am a passionate developer, who is learning and trying to improve every day. I have a **higher education in Computer Science**, currently **looking for a job**. I **create educational projects for web** and learn different aspects of web development.
+My name is **Pavel** and I am a highly motivated and passionate developer with a **higher education in computer science**. I am currently **seeking challenging career opportunities**, specifically as a Python (Backend) Developer. I have a strong mastery of the Django framework for developing backend web services and am always eager to learn new languages and frameworks to contribute to projects.
 
 <h4 align="center">🔍 looking for a job &nbsp; | &nbsp; 🌱 building <a href="https://github.com/welel/noted" _target="blank"><img alt="noted_logo" src="imgs/noted_logo2.png" width="65"/></a> &nbsp; | &nbsp; 💬 contact me <a href="mailto:pavel.loginov.dev@gmail.com" ><img src="https://img.shields.io/badge/-gmail-informational?style=flat&logo=gmail" alt="gmail"/></a></h4>
 
-I am well versed in **Python, Django** and working in a **Linux** environment. I can create simple fronted with **HTML**, **CSS**, **JS** and **Bootstrap**. I have spent the last year serving in the army, and now I'm focusing on recovery expertise and knowledge in Computer Science.
+I am well-versed in **Python, Django** and have experience working in a **Linux** environment. Proficient in creating visually appealing and user-friendly frontend using **HTML, CSS, JavaScript, and Bootstrap**. I have recently completed a year of service in the army, and I am now focused on regaining my expertise and knowledge in computer science.
 
-Apart from what I have already mentioned, I am a curious person, interested in many aspects of life and things such as physical, mental, social aspects, investing, art, productivity, camping and so on.
+For a detailed overview of my coding skills and abilities, please visit my current project - [NoteD](https://welel-noted.site/en/), [on GitHub](https://github.com/welel/noted). This project showcases my technical expertise and attention to detail, and will give you a clear understanding of the quality of work I am capable of delivering.
 
-<!-- DESTRACTIVE SOCIAL MEDIA -->
+👔 **Hire me**: If you are looking for a hardworking and dedicated developer, please do not hesitate to reach out to me for an interview or to discuss a test task.
 
-## 👔 Hire me
-I'm looking for challenging career opportunities, mostly as a Python (Backend) Developer. I master Django framework for developing backend of web services. I am ready to learn new languages and frameworks for your projects. **If you are looking for an industrious and passionate developer, just send me an offer to interview or test task.**
+:envelope: Contacts: Telegram [@weleldev](https://t.me/weleldev) | pavel.loginov.dev@gmail.com.
 
 ## 🛠️ Tech Stack
 
@@ -64,8 +64,7 @@ I'm looking for challenging career opportunities, mostly as a Python (Backend) D
 
 <a href="https://github.com/welel/noted" _target="blank"><img alt="noted_logo" src="imgs/noted_logo2.png" width="100" align="left" /></a>
 
-[NoteD.](https://github.com/welel/noted) helps to **create personal notes**, **share** them public, **search** notes for interesting topics and **save** them, follow users and be followed by others. The project was created for my educational purposes.
-
+[NoteD.](https://github.com/welel/noted) is a platform designed for creating and sharing personal notes, allowing users to search for relevant topics, save and follow notes from other users. The platform also enables users to search for notes on specific sources of information such as books, articles, videos, lectures and other types of content. The project was developed with the primary goals of providing an opportunity for me to learn and improve my skills while creating it and as well as a showcase for recruiters to demonstrate my abilities.
 
 ## 😎 Some Things About Me
 * 📱 Believe that spending less time on social networks can make us happier.
