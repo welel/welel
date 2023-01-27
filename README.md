@@ -3,13 +3,13 @@
 <h2 align="center">
   Glad to see you here <img alt="hi" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36"/>
 </h2>
-<a href="https://github.com/welel/welel/blob/main/README.rus.md" ><img alt="ru" src="https://img.shields.io/badge/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%20%F0%9F%87%B7%F0%9F%87%BA-blue"/></a>
+<a href="https://github.com/welel/welel/blob/main/README.rus.md" ><img alt="ru" src="https://img.shields.io/badge/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC-blue"/></a>
 
 <!-- 
 <img align="right" alt="Mark" src="imgs/WATNEY.png" height="340" />
 -->
 
-<h3 align="center">I am a backend developer and a curious person based in Saint-Petersburg 🇷🇺.</h3>
+<h3 align="center">I am a backend developer and a curious person based in Saint-Petersburg.</h3>
 
 My name is **Pavel** and I am a highly motivated and passionate developer with a **higher education in computer science**. I am currently **seeking challenging career opportunities**, specifically as a Python (Backend) Developer. I have a strong mastery of the Django framework for developing backend web services and am always eager to learn new languages and frameworks to contribute to projects.
 
@@ -21,7 +21,7 @@ For a detailed overview of my coding skills and abilities, please visit my curre
 
 👔 **Hire me**: If you are looking for a hardworking and dedicated developer, please do not hesitate to reach out to me for an interview or to discuss a test task.
 
-:envelope: Contacts: Telegram [@weleldev](https://t.me/weleldev) | pavel.loginov.dev@gmail.com.
+:envelope: **Contacts**: Telegram [@weleldev](https://t.me/weleldev) | pavel.loginov.dev@gmail.com.
 
 ## 🛠️ Tech Stack
 
@@ -37,6 +37,8 @@ For a detailed overview of my coding skills and abilities, please visit my curre
 <details>
   <summary> 🔨 Have experienced:</summary>
   </br>
+  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DRF" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
   <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" />
