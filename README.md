@@ -1,7 +1,7 @@
 <!-- <p align="center"><img src="imgs/cover.jpeg" alt="cover" width="700" /></p> -->
 
 <h2 align="center">
-  Glad to see you here <img alt="hi" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36"/>
+  Hi <img alt="hi" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36"/>, I'm Pavel
 </h2>
 <a href="https://github.com/welel/welel/blob/main/README.rus.md" ><img alt="ru" src="https://img.shields.io/badge/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC-blue"/></a>
 
@@ -9,9 +9,9 @@
 <img align="right" alt="Mark" src="imgs/WATNEY.png" height="340" />
 -->
 
-<h3 align="center">I am a backend developer and a curious person based in Saint-Petersburg.</h3>
+<h3 align="center">A curious backend developer based in Saint-Petersburg</h3>
 
-My name is **Pavel** and I am a highly motivated and passionate developer with a **higher education in computer science**. I am currently **seeking challenging career opportunities**, specifically as a Python (Backend) Developer. I have a strong mastery of the Django framework for developing backend web services and am always eager to learn new languages and frameworks to contribute to projects.
+I am a highly motivated and passionate developer with a **higher education in computer science**. I am currently **seeking challenging career opportunities**, specifically as a Python (Backend) Developer. I have a strong mastery of the Django framework for developing backend web services and am always eager to learn new languages and frameworks to contribute to projects.
 
 <h4 align="center">🔍 looking for a job &nbsp; | &nbsp; 🌱 building <a href="https://github.com/welel/noted" _target="blank"><img alt="noted_logo" src="imgs/noted_logo2.png" width="65"/></a> &nbsp; | &nbsp; 💬 contact me <a href="mailto:pavel.loginov.dev@gmail.com" ><img src="https://img.shields.io/badge/-gmail-informational?style=flat&logo=gmail" alt="gmail"/></a></h4>
 
