@@ -11,62 +11,69 @@
 
 <h3 align="center">A curious backend developer based in Saint-Petersburg</h3>
 
-I am a highly motivated and passionate developer with a **higher education in computer science**. I am currently **seeking challenging career opportunities**, specifically as a Python (Backend) Developer. I have a strong mastery of the Django framework for developing backend web services and am always eager to learn new languages and frameworks to contribute to projects.
-
-<h4 align="center">🔍 looking for a job &nbsp; | &nbsp; 🌱 building <a href="https://github.com/welel/noted" _target="blank"><img alt="noted_logo" src="imgs/noted_logo2.png" width="65"/></a> &nbsp; | &nbsp; 💬 contact me <a href="mailto:pavel.loginov.dev@gmail.com" ><img src="https://img.shields.io/badge/-gmail-informational?style=flat&logo=gmail" alt="gmail"/></a></h4>
-
-I am well-versed in **Python, Django** and have experience working in a **Linux** environment. Proficient in creating visually appealing and user-friendly frontend using **HTML, CSS, JavaScript, and Bootstrap**. I have recently completed a year of service in the army, and I am now focused on regaining my expertise and knowledge in computer science.
+I'm a passionate developer with a **higher education in computer science**. I'm currently **seeking challenging career opportunities**. I have a strong mastery of **Python, Django** and mostly work in a **Linux** environment. Proficient in creating visually appealing and user-friendly frontend using **HTML, CSS, JavaScript, and Bootstrap**.
 
 For a detailed overview of my coding skills and abilities, please visit my current project - [NoteD](https://welel-noted.site/en/), [on GitHub](https://github.com/welel/noted). This project showcases my technical expertise and attention to detail, and will give you a clear understanding of the quality of work I am capable of delivering.
+
+
+<h4 align="center">🔍 looking for a job &nbsp; | &nbsp; 🌱 building <a href="https://github.com/welel/noted" _target="blank"><img alt="noted_logo" src="imgs/noted_logo2.png" width="65"/></a> &nbsp; | &nbsp; 💬 contact me <a href="mailto:pavel.loginov.dev@gmail.com" ><img src="https://img.shields.io/badge/-gmail-informational?style=flat&logo=gmail" alt="gmail"/></a></h4>
 
 👔 **Hire me**: If you are looking for a hardworking and dedicated developer, please do not hesitate to reach out to me for an interview or to discuss a test task.
 
 :envelope: **Contacts**: Telegram [@weleldev](https://t.me/weleldev) | pavel.loginov.dev@gmail.com.
 
+<br>
+
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+  <b>Main:</b>
+  <img src="https://img.shields.io/badge/Python-%2314354c.svg?logo=Python&logoColor=white&style=flat" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-%23092e20.svg?logo=django&logoColor=white&style=flat" alt="Django" />
+  <img src="https://img.shields.io/badge/Postgres-%23336791.svg?logo=postgresql&logoColor=white&style=flat" alt="Postgres" />
+  <img src="https://img.shields.io/badge/Linux-%23fcc624.svg?logo=linux&logoColor=white&style=flat" alt="Linux" />
+  <img src="https://img.shields.io/badge/git-%23d22128.svg?logo=git&logoColor=white&style=flat" alt="Git" />
+  <img src="https://img.shields.io/badge/HTML5-%23e34f26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-%237952b3.svg?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap" />
+</p>
 
-<details>
-  <summary> 🔨 Have experienced:</summary>
-  </br>
-  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DRF" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-  <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-</details>
+<p>
+  <b>Have experienced:</b>
+  <img src="https://img.shields.io/badge/Django-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DRF" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" alt="nginx" />
+  <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white" alt="Gunicorn" />
+  <img src="https://img.shields.io/badge/Redis-%23a51f17.svg?logo=redis&logoColor=white&style=flat" alt="Redis" />
+  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" alt="Go" />
+</p>
 
-<details>
-  <summary> ⚒️ Tools:</summary>
-  </br>
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
-  <img src="https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black" alt="Miro" />
-  <img src="https://img.shields.io/badge/colab-%23F46800.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop]" />
-</details>
+<p>
+  <b>Tools:</b>
+  <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white" alt="Obsidian" />
+  <img src="https://img.shields.io/badge/Miro-%23F2CA02.svg?style=flat&logo=miro&logoColor=black" alt="Miro" />
+  <img src="https://img.shields.io/badge/Colab-%23F46800.svg?style=flat&logo=googlecolab&logoColor=white" alt="Colab" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop]" />
+</p>
 
+<br>
 
 ## 💡 Current Project
+
+<img src="https://camo.githubusercontent.com/ea165e2ba59ef0cbdad777ca1ff5fdfe552ab21ade7571285df6ce01f87551b6/68747470733a2f2f692e6962622e636f2f5a4d6a397476722f6f75747075742d6f6e6c696e65706e67746f6f6c732e706e67" width="300" align="right" alt="Screenshot]" />
 
 <a href="https://github.com/welel/noted" _target="blank"><img alt="noted_logo" src="imgs/noted_logo2.png" width="100" align="left" /></a>
 
 [NoteD](https://github.com/welel/noted) is a platform designed for creating and sharing personal notes, allowing users to search for relevant topics, save, download and follow notes from other users. The platform also enables users to search for notes on specific sources of information such as books, articles, videos, lectures and other types of content. The project was developed with the primary goals of providing an opportunity for me to learn and improve my skills while creating it, as well as a showcase for recruiters to demonstrate my coding abilities.
+
+<br>
 
 ## 😎 Some Things About Me
 * 📱 Believe that spending less time on social networks can make us happier.
