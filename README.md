@@ -67,7 +67,7 @@ For a detailed overview of my coding skills and abilities, please visit my curre
 
 ## 💡 Current Project
 
-<img src="https://camo.githubusercontent.com/ea165e2ba59ef0cbdad777ca1ff5fdfe552ab21ade7571285df6ce01f87551b6/68747470733a2f2f692e6962622e636f2f5a4d6a397476722f6f75747075742d6f6e6c696e65706e67746f6f6c732e706e67" width="300" align="right" alt="Screenshot]" />
+<img src="https://camo.githubusercontent.com/ea165e2ba59ef0cbdad777ca1ff5fdfe552ab21ade7571285df6ce01f87551b6/68747470733a2f2f692e6962622e636f2f5a4d6a397476722f6f75747075742d6f6e6c696e65706e67746f6f6c732e706e67" width="40%" align="right" alt="Screenshot]" />
 
 <a href="https://github.com/welel/noted" _target="blank"><img alt="noted_logo" src="imgs/noted_logo2.png" width="100" align="left" /></a>
 
