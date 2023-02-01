@@ -26,42 +26,12 @@ For a detailed overview of my coding skills and abilities, please visit my curre
 
 ## 🛠️ Tech Stack
 
-<p>
-  <b>Main:</b>
-  <img src="https://img.shields.io/badge/Python-%2314354c.svg?logo=Python&logoColor=white&style=flat" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-%23092e20.svg?logo=django&logoColor=white&style=flat" alt="Django" />
-  <img src="https://img.shields.io/badge/Postgres-%23336791.svg?logo=postgresql&logoColor=white&style=flat" alt="Postgres" />
-  <img src="https://img.shields.io/badge/Linux-%23fcc624.svg?logo=linux&logoColor=white&style=flat" alt="Linux" />
-  <img src="https://img.shields.io/badge/git-%23d22128.svg?logo=git&logoColor=white&style=flat" alt="Git" />
-  <img src="https://img.shields.io/badge/HTML5-%23e34f26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-%237952b3.svg?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap" />
-</p>
+Main|<img src="https://img.shields.io/badge/Python-%2314354c.svg?logo=Python&logoColor=white&style=flat" alt="Python" /> <img src="https://img.shields.io/badge/Django-%23092e20.svg?logo=django&logoColor=white&style=flat" alt="Django" />  <img src="https://img.shields.io/badge/Postgres-%23336791.svg?logo=postgresql&logoColor=white&style=flat" alt="Postgres" />  <img src="https://img.shields.io/badge/Linux-%23fcc624.svg?logo=linux&logoColor=white&style=flat" alt="Linux" /> <img src="https://img.shields.io/badge/git-%23d22128.svg?logo=git&logoColor=white&style=flat" alt="Git" /> <img src="https://img.shields.io/badge/HTML5-%23e34f26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat" alt="CSS3" /> <img src="https://img.shields.io/badge/Bootstrap-%237952b3.svg?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap" />
+-|:-
+<br>Have experienced|<br><img src="https://img.shields.io/badge/Django-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DRF" /> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" alt="nginx" /> <img src="https://img.shields.io/badge/Gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white" alt="Gunicorn" /> <img src="https://img.shields.io/badge/Redis-%23a51f17.svg?logo=redis&logoColor=white&style=flat" alt="Redis" /> <img src="https://img.shields.io/badge/Telegram API-%2300ADD8.svg?style=flat&logo=telegram&logoColor=white" alt="Telegram API" /> <img src="https://img.shields.io/badge/Selenium-%23009639.svg?style=flat&logo=selenium&logoColor=white" alt="Selenium" /> <img src="https://img.shields.io/badge/PyQt5-%298729.svg?style=flat&logo=pyqt&logoColor=white" alt="PyQt5" /> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white" alt="Heroku" /> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" alt="Keras" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" /> <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" alt="Go" />
+Tools|<img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" /> <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown" /> <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white" alt="Obsidian" /> <img src="https://img.shields.io/badge/Miro-%23F2CA02.svg?style=flat&logo=miro&logoColor=black" alt="Miro" /> <img src="https://img.shields.io/badge/Colab-%23F46800.svg?style=flat&logo=googlecolab&logoColor=white" alt="Colab" /> <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" /> <img src="https://img.shields.io/badge/ChatGPT-%23000000.svg?style=flat&logo=openai&logoColor=white" alt="ChatGPT" />
 
-<p>
-  <b>Have experienced:</b>
-  <img src="https://img.shields.io/badge/Django-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DRF" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" alt="nginx" />
-  <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white" alt="Gunicorn" />
-  <img src="https://img.shields.io/badge/Redis-%23a51f17.svg?logo=redis&logoColor=white&style=flat" alt="Redis" />
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white" alt="Heroku" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" alt="Go" />
-</p>
-
-<p>
-  <b>Tools:</b>
-  <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white" alt="Obsidian" />
-  <img src="https://img.shields.io/badge/Miro-%23F2CA02.svg?style=flat&logo=miro&logoColor=black" alt="Miro" />
-  <img src="https://img.shields.io/badge/Colab-%23F46800.svg?style=flat&logo=googlecolab&logoColor=white" alt="Colab" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop]" />
-</p>
+pyqt5
 
 <br>
 
