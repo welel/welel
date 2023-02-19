@@ -64,7 +64,7 @@ For a detailed overview of my coding skills and abilities, please visit my curre
 </details>
 
 <details>
-<summary><h3>😎 GitHub Stats</h3></summary>
+<summary><h3>:bar_chart: GitHub Stats</h3></summary>
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=welel&theme=flag-india&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700&stroke=0211DD" atl="commits_stat" width="420"/></p>
 
