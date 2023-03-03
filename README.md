@@ -1,30 +1,40 @@
 <!-- <p align="center"><img src="imgs/cover.jpeg" alt="cover" width="700" /></p> -->
 
-<h2 align="center">
+<!-- <h2 align="center">
   Hi <img alt="hi" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35"/>, I'm Pavel
 </h2>
 <a href="https://github.com/welel/welel/blob/main/README.rus.md" ><img alt="ru" src="https://img.shields.io/badge/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC-blue"/></a>
 
-<!-- 
+
 <img align="right" alt="Mark" src="imgs/WATNEY.png" height="340" />
--->
+
 
 <h3 align="center">A curious backend developer based in Saint-Petersburg</h3>
 
 I'm a passionate developer with a **higher education in computer science**. I'm currently **seeking challenging career opportunities**. I have a strong mastery of **Python, Django** and mostly work in a **Linux** environment. Proficient in creating visually appealing and user-friendly frontend using **HTML, CSS, JavaScript, and Bootstrap**.
 
-For a detailed overview of my coding skills and abilities, please visit my current project - [NoteD](https://welel-noted.site/en/), [on GitHub](https://github.com/welel/noted). This project showcases my technical expertise and attention to detail, and will give you a clear understanding of the quality of work I am capable of delivering.
+For a detailed overview of my coding skills and abilities, please visit my current project - [NoteD](https://welel-noted.site/en/), [on GitHub](https://github.com/welel/noted). This project showcases my technical expertise and attention to detail, and will give you a clear understanding of the quality of work I am capable of delivering. 
 
+<h4 align="center">🔍 looking for a job &nbsp; | &nbsp;  &nbsp; | &nbsp; 💬 contact me <a href="mailto:pavel.loginov.dev@gmail.com" ><img src="https://img.shields.io/badge/-gmail-informational?style=flat&logo=gmail" alt="gmail"/></a></h4>
 
-<h4 align="center">🔍 looking for a job &nbsp; | &nbsp; 🌱 building <a href="https://github.com/welel/noted" _target="blank"><img alt="noted_logo" src="imgs/noted_logo2.png" width="65"/></a> &nbsp; | &nbsp; 💬 contact me <a href="mailto:pavel.loginov.dev@gmail.com" ><img src="https://img.shields.io/badge/-gmail-informational?style=flat&logo=gmail" alt="gmail"/></a></h4>
+-->
 
-👔 **Hire me**: If you are looking for a hardworking and dedicated developer, please do not hesitate to reach out to me for an interview or to discuss a test task.
+## Pavel Loginov
 
-:envelope: **Contacts**: Telegram [@weleldev](https://t.me/weleldev) | pavel.loginov.dev@gmail.com.
+**I'm a backend developer experienced in Django, interested in Telegram bots and OpenAI.**
+
+| :computer: **Portfolio**| [loginovpavel.ru](https://loginovpavel.ru/)|
+|:-|:-|
+| :pencil: **Tech Blog**| <a href="https://medium.com/@pavel.loginov.dev"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a> <a href="https://teletype.in/@loginovpavel"><img src="https://img.shields.io/badge/Teletype-2CA5E0?style=flat&logoColor=white" alt="Teletype" /></a>|
+| 🌱 **Building**| <a href="https://github.com/welel/noted" _target="blank"><img alt="noted_logo" src="imgs/noted_logo2.png" width="65"/></a>|
+| 🚀 **Exist on**| [Codewars](https://www.codewars.com/users/-welel-), [Stepik](https://stepik.org/users/45294126).|
+| 👔 **Hire me**| [Resume](https://loginovpavel.ru/resume.pdf)|
+| :envelope: **Contacts**| <a href="https://t.me/weleldev"><img src="https://img.shields.io/badge/@weleldev-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="@weleldev" /></a> <a href="mailto:pavel.loginov.dev@gmail.com"><img src="https://img.shields.io/badge/-pavel.loginov.dev@gmail.com-%2314354c.svg?style=flat&logo=gmail&logoColor=red" alt="pavel.loginov.dev@gmail.com" /></a> |
 
 ---
+
 <details>
-<summary><h3>🛠️ Technologies & Tools</h3></summary>
+<summary><b>🛠️ Technologies & Tools</b></summary>
 
 |Main|
 |:-:|
@@ -38,7 +48,7 @@ For a detailed overview of my coding skills and abilities, please visit my curre
 </details>
 
 <details>
-<summary><h3>💡 Current Project</h3></summary>
+<summary><b>💡 Current Project</b></summary>
 
 <img src="https://camo.githubusercontent.com/ea165e2ba59ef0cbdad777ca1ff5fdfe552ab21ade7571285df6ce01f87551b6/68747470733a2f2f692e6962622e636f2f5a4d6a397476722f6f75747075742d6f6e6c696e65706e67746f6f6c732e706e67" width="40%" align="right" alt="Screenshot]" />
 
@@ -50,11 +60,9 @@ For a detailed overview of my coding skills and abilities, please visit my curre
 </details>
 
 <details>
-<summary><h3>😎 Some Things About Me</h3></summary>
+<summary><b>😎 Some Things About Me</b></summary>
 
 * 📱 Believe that spending less time on social networks can make us happier.
-
-* 🚀 Exist somewhere on [Codewars](https://www.codewars.com/users/-welel-), [Stepik](https://stepik.org/users/45294126).
 
 * 📓 Get knowledge on [Stepik](https://stepik.org/), [Real Python](https://realpython.com/), [Very Academy](https://www.youtube.com/channel/UC1mxuk7tuQT2D0qTMgKji3w), [Yandex Academy](https://www.youtube.com/c/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0/about) besides books and docs.
 
@@ -64,7 +72,7 @@ For a detailed overview of my coding skills and abilities, please visit my curre
 </details>
 
 <details>
-<summary><h3>:bar_chart: GitHub Stats</h3></summary>
+<summary><b>:bar_chart: GitHub Stats</b></summary>
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=welel&theme=flag-india&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700&stroke=0211DD" atl="commits_stat" width="420"/></p>
 
