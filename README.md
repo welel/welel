@@ -25,7 +25,7 @@ For a detailed overview of my coding skills and abilities, please visit my curre
 
 | :computer: **Portfolio**| [loginovpavel.ru](https://loginovpavel.ru/)|
 |:-|:-|
-| :pencil: **Tech Blog**| <a href="https://medium.com/@pavel.loginov.dev"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a> <a href="https://teletype.in/@loginovpavel"><img src="https://img.shields.io/badge/Teletype-2CA5E0?style=flat&logoColor=white" alt="Teletype" /></a>|
+| :pencil: **Tech Blog**| <a href="https://medium.com/@pavel.loginov.dev" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a> <a href="https://teletype.in/@loginovpavel"><img src="https://img.shields.io/badge/Teletype-2CA5E0?style=flat&logoColor=white" alt="Teletype" /></a>|
 | 🌱 **Building**| <a href="https://github.com/welel/noted" _target="blank"><img alt="noted_logo" src="imgs/noted_logo2.png" width="65"/></a>|
 | 🚀 **Exist on**| [Codewars](https://www.codewars.com/users/-welel-), [Stepik](https://stepik.org/users/45294126).|
 | 👔 **Hire me**| [Resume](https://loginovpavel.ru/resume.pdf)|
