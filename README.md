@@ -25,9 +25,9 @@ For a detailed overview of my coding skills and abilities, please visit my curre
 
 | :computer: **Portfolio**| [loginovpavel.ru](https://loginovpavel.ru/)|
 |:-|:-|
-| :pencil: **Tech Blog**| <a href="https://medium.com/@pavel.loginov.dev" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a> <a href="https://teletype.in/@loginovpavel"><img src="https://img.shields.io/badge/Teletype-2CA5E0?style=flat&logoColor=white" alt="Teletype" /></a>|
-| 🌱 **Building**| <a href="https://github.com/welel/noted" _target="blank"><img alt="noted_logo" src="imgs/noted_logo2.png" width="65"/></a>|
-| 🚀 **Exist on**| [Codewars](https://www.codewars.com/users/-welel-), [Stepik](https://stepik.org/users/45294126).|
+| :pencil: **Tech Blog**| <a href="https://medium.com/@pavel.loginov.dev"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a> <a href="https://teletype.in/@loginovpavel"><img src="https://img.shields.io/badge/Teletype-2CA5E0?style=flat&logoColor=white" alt="Teletype" /></a>|
+| 🌱 **Building**| <a href="https://github.com/welel/noted"><img alt="noted_logo" src="imgs/noted_logo2.png" width="65"/></a>|
+| 🚀 **Exist on**| <a href="https://www.codewars.com/users/-welel-"><img src="https://www.codewars.com/users/-welel-/badges/micro" /></a> <a href="https://stepik.org/users/45294126"><img src="https://img.shields.io/badge/Stekip-12100E?style=flat&logoColor=white" alt="Stepik" /></a>|
 | 👔 **Hire me**| [Resume](https://loginovpavel.ru/resume.pdf)|
 | :envelope: **Contacts**| <a href="https://t.me/weleldev"><img src="https://img.shields.io/badge/@weleldev-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="@weleldev" /></a> <a href="mailto:pavel.loginov.dev@gmail.com"><img src="https://img.shields.io/badge/-pavel.loginov.dev@gmail.com-%2314354c.svg?style=flat&logo=gmail&logoColor=red" alt="pavel.loginov.dev@gmail.com" /></a> |
 
