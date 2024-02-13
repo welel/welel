@@ -61,6 +61,8 @@
 <!--
 |**Forgotten**|
 | <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="cpp"/> <img src="https://img.shields.io/badge/Matlab-%23F7A41D.svg?style=flat&logo=matlab&logoColor=white" alt="Matlab"/> <img src="https://img.shields.io/badge/Assembly-%23007ACC.svg?style=flat&logo=assembly&logoColor=white" alt="Assembly"/> <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white" alt="Heroku" /> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" alt="Keras" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" /> <img src="https://img.shields.io/badge/PyQt5-%298729.svg?style=flat&logo=pyqt&logoColor=white" alt="PyQt5" /> |
+
+
 -->
 
 
