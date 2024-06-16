@@ -4,7 +4,7 @@
 
 | :pencil: **Tech Blog**| <a href="https://medium.com/@pavel.loginov.dev"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a> <a href="https://teletype.in/@loginovpavel"><img src="https://img.shields.io/badge/Teletype-2CA5E0?style=flat&logoColor=white" alt="Teletype" /></a>|
 |:-|:-|
-| 🚀 **Exist on**| <a href="https://www.codewars.com/users/-welel-"><img src="https://www.codewars.com/users/-welel-/badges/micro" /></a> <a href="https://stepik.org/users/45294126"><img src="https://img.shields.io/badge/Stekip-12100E?style=flat&logoColor=white" alt="Stepik" /></a>|
+| 🚀 **Exist on**| <a href="https://www.codewars.com/users/-welel-"><img src="https://www.codewars.com/users/-welel-/badges/micro" /></a> <a href="https://stepik.org/users/45294126"><img src="https://img.shields.io/badge/Stepik-12100E?style=flat&logoColor=white" alt="Stepik" /></a>|
 | :envelope: **Contacts**| <a href="https://t.me/weleldev"><img src="https://img.shields.io/badge/@weleldev-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="@weleldev" /></a> <a href="mailto:pavel.loginov.dev@gmail.com"><img src="https://img.shields.io/badge/-pavel.loginov.dev@gmail.com-%2314354c.svg?style=flat&logo=gmail&logoColor=red" alt="pavel.loginov.dev@gmail.com" /></a> |
 
 ---
