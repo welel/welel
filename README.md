@@ -1,6 +1,6 @@
 ## Pavel Loginov
 
-**I'm a backend developer experienced in Django, interested in Telegram bots and OpenAI.**
+**I'm a backend developer with a strong background in Python, currently diving into the world of Go.**
 
 | :pencil: **Tech Blog**| <a href="https://medium.com/@pavel.loginov.dev"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a> <a href="https://teletype.in/@loginovpavel"><img src="https://img.shields.io/badge/Teletype-2CA5E0?style=flat&logoColor=white" alt="Teletype" /></a>|
 |:-|:-|
